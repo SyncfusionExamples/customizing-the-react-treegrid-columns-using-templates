@@ -1,15 +1,33 @@
 # Customizing the React TreeGrid Columns Using Templates
 
-A quick-start project that helps you to customize the header and data in react treegrid columns using templates. This project also contains simple code to customize columns based on condition.
+A sample React project demonstrating how to customize TreeGrid column headers and cell content using templates and conditional rendering. This repository shows practical, minimal examples for applying header templates, cell templates, and conditional column formatting in a Syncfusion React TreeGrid component.
 
 Documentation: https://ej2.syncfusion.com/react/documentation/treegrid/columns/
 
 Online examples: https://ej2.syncfusion.com/react/demos/#/material/treegrid/columntemplate
 
-## Project prerequisites
+## Project overview
 
-Make sure that you have the lastest versions of NodeJS and visual studio code in your machine before starting to work on this project.
+This quick-start project provides focused examples that illustrate how to replace default header text, render custom HTML within cells, and apply conditional templates to change column appearance at runtime. The samples are minimal and intended to be adapted into larger applications where column-level templating is required.
 
-## How to run this application?
+## Features
 
-To run this application, you need to clone the `customizing-the-react-treegrid-columns-using-templates` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using `npm install` command and run your project using the `npm start` command.
+- Header templates for custom heading content
+- Cell templates for rendering icons, formatted values, or custom JSX
+- Conditional column customization based on data values
+
+## Prerequisites
+
+Ensure you have a recent LTS release of Node.js and a working `npm` installation. A code editor such as Visual Studio Code is recommended for exploring and modifying the samples.
+
+## Installation and running
+
+1. Clone this repository to your local machine.
+2. Open the project folder in Visual Studio Code (or your preferred editor).
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open the app in your browser (usually at `http://localhost:3000`).
+
+
+
+
