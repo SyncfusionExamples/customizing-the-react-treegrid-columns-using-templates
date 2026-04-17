@@ -7,13 +7,11 @@ This repository shows practical, minimal examples for applying header templates,
 A sample React project demonstrating how to customize TreeGrid column headers and cell content using templates and conditional rendering. 
 
 ## Features
-
 - Header templates for custom heading content
 - Cell templates for rendering icons, formatted values, or custom JSX
 - Conditional column customization based on data values
 
 ## Project prerequisites
-
 Before starting, ensure you have the following installed:
 - **Node.js**: Latest stable version
 - **Visual Studio Code**: Latest version recommended
