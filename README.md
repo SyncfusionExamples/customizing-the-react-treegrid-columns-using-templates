@@ -4,7 +4,7 @@
 This repository shows practical, minimal examples for applying header templates, cell templates, and conditional column formatting in a Syncfusion React TreeGrid component.
 
 ## Overview 
-A sample React project demonstrating how to customize TreeGrid column headers and cell content using templates and conditional rendering. 
+A sample React project demonstrating to customize TreeGrid column headers and cell content using templates and conditional rendering. 
 
 ## Features
 - Header templates for custom heading content
@@ -43,3 +43,8 @@ Explore Syncfusion EJ2 TreeGrid Column template and header template examples:
 https://ej2.syncfusion.com/react/demos/#/fluent2/treegrid/header-template
 
 https://ej2.syncfusion.com/react/demos/#/fluent2/treegrid/columntemplate
+
+## Documentation
+ 
+For detailed information and configuration options:
+https://ej2.syncfusion.com/react/documentation/treegrid/columns/column-template
