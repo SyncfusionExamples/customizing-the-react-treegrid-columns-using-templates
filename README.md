@@ -1,15 +1,49 @@
 # Customizing the React TreeGrid Columns Using Templates
 
-A quick-start project that helps you to customize the header and data in react treegrid columns using templates. This project also contains simple code to customize columns based on condition.
+## Repository Description
+This repository shows practical, minimal examples for applying header templates, cell templates, and conditional column formatting in a Syncfusion React TreeGrid component.
 
-Documentation: https://ej2.syncfusion.com/react/documentation/treegrid/columns/
+## Overview 
+A sample React application showcasing the customization of TreeGrid column headers and cell content using templates with conditional rendering for dynamic and flexible UI behavior.
 
-Online examples: https://ej2.syncfusion.com/react/demos/#/material/treegrid/columntemplate
+## Features
+- Header templates for custom heading content
+- Conditional column customization based on data values using column template
 
 ## Project prerequisites
+Before starting, ensure you have the following installed:
+- **Node.js**: Latest stable version
+- **Visual Studio Code**: Latest version recommended
+- **npm**: Node Package Manager (included with Node.js)
+- Basic knowledge of React and JavaScript
 
-Make sure that you have the lastest versions of NodeJS and visual studio code in your machine before starting to work on this project.
+## Installation
 
-## How to run this application?
+Clone and set up the project:
 
-To run this application, you need to clone the `customizing-the-react-treegrid-columns-using-templates` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using `npm install` command and run your project using the `npm start` command.
+```
+git clone https://github.com/SyncfusionExamples/customizing-the-react-treegrid-columns-using-templates
+cd customizing-the-react-treegrid-columns-using-templates
+npm install
+```
+## Running the Application
+ 
+Start the development server:
+ 
+```
+npm start
+```
+ 
+The application will open in your default browser. Any changes you make to the source files will automatically reload the application.
+ 
+## Examples
+Explore Syncfusion EJ2 TreeGrid Column template and header template examples:
+
+https://ej2.syncfusion.com/react/demos/#/fluent2/treegrid/header-template
+
+https://ej2.syncfusion.com/react/demos/#/fluent2/treegrid/columntemplate
+
+## Documentation
+ 
+For detailed information and configuration options:
+https://ej2.syncfusion.com/react/documentation/treegrid/columns/column-template
