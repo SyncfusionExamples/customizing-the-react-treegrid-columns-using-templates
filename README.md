@@ -4,12 +4,11 @@
 This repository shows practical, minimal examples for applying header templates, cell templates, and conditional column formatting in a Syncfusion React TreeGrid component.
 
 ## Overview 
-A sample React project demonstrating to customize TreeGrid column headers and cell content using templates and conditional rendering. 
+A sample React application showcasing the customization of TreeGrid column headers and cell content using templates with conditional rendering for dynamic and flexible UI behavior.
 
 ## Features
 - Header templates for custom heading content
-- Cell templates for rendering icons, formatted values, or custom JSX
-- Conditional column customization based on data values
+- Conditional column customization based on data values using column template
 
 ## Project prerequisites
 Before starting, ensure you have the following installed:
